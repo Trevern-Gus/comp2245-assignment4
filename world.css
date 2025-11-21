@@ -65,3 +65,19 @@ div {
 #result table tr:nth-child(even) {
   background-color: #f2f2f2;
 }
+
+#lookup, #lookups {
+    padding: 10px 15px;
+    margin-left: 10px;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+#lookup {
+    background-color: #28a745;
+}
+
+#lookups {
+    background-color: #007bff;
+}
